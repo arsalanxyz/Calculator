@@ -1,0 +1,9 @@
+.todoHeading {
+  text-align: center;
+  border-radius: 200px;
+  background-color: antiquewhite;
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
